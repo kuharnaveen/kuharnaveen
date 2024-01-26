@@ -1,15 +1,16 @@
 ```Terminal
 [naveen@kuharnaveen ~]$ Hi there 👋
-[naveen@kuharnaveen ~]$ I am Naveen  
+[naveen@kuharnaveen ~]$ I am Naveen
 [naveen@kuharnaveen ~]$ I am a student and a developer 👨‍💻
 [naveen@kuharnaveen ~]$ I am based in  🇨🇦
 [naveen@kuharnaveen ~]$ I love to code and eat 🥣
-[naveen@kuharnaveen ~]$ I am currently learning Mechine Learning 🤖 
+[naveen@kuharnaveen ~]$ I am currently learning Machine Learning 🤖
 [naveen@kuharnaveen ~]$ I am currently studying at Sault College 🏫
-[naveen@kuharnaveen ~]$ I am availble at mr.naveenkuhar@proton.me 📧
+[naveen@kuharnaveen ~]$ I am available at mr.naveenkuhar@proton.me 📧
 ```
 
->`[naveen@kuharnaveen ~]$ Connect with me`
+> `[naveen@kuharnaveen ~]$ Connect with me`
+
 <p align="left">
 <!-- Connect with me on social media -->
 <!-- protonmail: -->
@@ -31,7 +32,9 @@
 </p>
 
 <!-- languages and tools section -->
->`[naveen@kuharnaveen ~]$ Languages`
+
+> `[naveen@kuharnaveen ~]$ Languages`
+
 <p align="left">
 <!-- python -->
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
@@ -69,7 +72,9 @@ alt="bash" width="40" height="40"/></a>
 </p>
 
 <!-- other tools  -->
->`[naveen@kuharnaveen ~]$ code editors`
+
+> `[naveen@kuharnaveen ~]$ code editors`
+
 <p align="left">
 <!-- vscode -->
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
@@ -92,7 +97,9 @@ alt="android studio" width="40" height="40"/> </a>
 </p>
 
 <!--office-->
->`[naveen@kuharnaveen ~]$ Office `
+
+> `[naveen@kuharnaveen ~]$ Office `
+
 <!--exel-->
 <p <a href="https://www.microsoft.com/en-ca/microsoft-365/excel" target="_blank"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_AreaHeading_64x64_B_Desktop-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=58&hei=58&qlt=100&fit=constrain" 
 alt="excel" width="40" height="40"/> </a>
@@ -114,7 +121,9 @@ alt="sql server" width="40" height="40"/> </a>
 </p>
 
 <!-- video editing -->
->`[naveen@kuharnaveen ~]$ Creativity`
+
+> `[naveen@kuharnaveen ~]$ Creativity`
+
 <!-- davichi resolve -->
 <p <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"> <img src="https://duckduckgo.com/i/300d79aa.png"
 alt="davichi resolve" width="40" height="40"/> </a>
@@ -137,7 +146,9 @@ alt="audition" width="40" height="40"/> </a>
 </p>
 
 <!-- architectural design -->
->`[naveen@kuharnaveen ~]$ Architectural Design`
+
+> `[naveen@kuharnaveen ~]$ Architectural Design`
+
 <!-- Unreal Engine -->
 <p <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
 alt="unreal engine" width="40" height="40"/> </a>
@@ -150,21 +161,26 @@ alt="3ds max" width="40" height="40"/> </a>
 </p>
 
 <!-- others -->
->`[naveen@kuharnaveen ~]$ Others`
+
+> `[naveen@kuharnaveen ~]$ Others`
 
 <!-- virtual box -->
+
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/120px-Virtualbox_logo.png"
 alt="virtualbox" width="40" height="40"/> </a>
 
-
 <!-- Stats -->
->`[naveen@kuharnaveen ~]$ Stats`
+
+> `[naveen@kuharnaveen ~]$ Stats`
+
 <p><img aling="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuharnaveen&show_icons=true&locale=en&layout=compact" alt="kuharnaveen" /></p>
 <p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kuharnaveen&show_icons=true&locale=en" alt="kuharnaveen" /></p>
 
->`[naveen@kuharnaveen ~]$ Streak `
+> `[naveen@kuharnaveen ~]$ Streak `
+
 <p><img align="center" width="400" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=kuharnaveen&" alt="kuharnaveen" /></p>
 
 <!-- >`[naveen@kuharnaveen ~]$ My Resume ?` -->
 
 <!-- ` [naveen@kuharnaveen ~]$ I will upload it soon` -->
+<!-- Updated on 1/26/24 -->
