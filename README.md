@@ -18,17 +18,16 @@
 <!-- Gravtar -->
 <a href="https://gravatar.com/mrnaveenkuhar" target="blank"><img align="center" src="https://brandeps.com/logo-download/G/Gravatar-logo-vector-01.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- codepen -->
-<a href="https://codepen.io/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
+<a href="https://codepen.io/mrnaveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- dev.to -->
-<a href="https://dev.to/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
+<a href="https://dev.to/mrnaveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- linedin -->
-<a href="https://linkedin.com/in/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrnaveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- stackoverflow -->
-<a href="https://stackoverflow.com/users/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18960974/mrnaveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- Medium -->
 <a href="https://medium.com/@mr.naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mr.naveenkuhar" height="30" width="40" /></a>
-<!-- youtube -->
-<a href="https://www.youtube.com/c/naveen kuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="naveen kuhar" height="30" width="40" /></a>
+
 </p>
 
 <!-- languages and tools section -->
@@ -73,28 +72,31 @@ alt="bash" width="40" height="40"/></a>
 
 <!-- other tools  -->
 
-> `[naveen@mr-naveenkuhar ~]$ code editors`
+> `[naveen@mr-naveenkuhar ~]$ Technologies`
 
 <p align="left">
-<!-- vscode -->
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-alt="vscode" width="40" height="40"/> </a>
-<!-- pycharm -->
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"
-alt="pycharm" width="40" height="40"/> </a>
-<!-- vim -->
-<a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
-alt="vim" width="40" height="40"/> </a>
-<!-- jupyter notebook -->
-<a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
-alt="jupyter" width="40" height="40"/> </a>
-<!-- anaconda -->
-<a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
-alt="anaconda" width="40" height="40"/> </a>
-<!-- android studio -->
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png"
-alt="android studio" width="40" height="40"/> </a>
-</p>
+<!-- Pytorch  -->
+<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+alt="pytorch" width="40" height="40"/> </a>
+<!-- Tensorflow -->
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+alt="tensorflow" width="40" height="40"/> </a>
+<!-- scikit-learn -->
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"
+alt="scikit-learn" width="80" height="40"/> </a>
+<!-- pandas -->
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+alt="pandas" width="40" height="40"/> </a>
+<!-- numpy -->
+<a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+alt="numpy" width="40" height="40"/> </a>
+<!-- matplotlib -->
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+alt="matplotlib" width="40" height="40"/> </a>
+<!-- seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
+alt="seaborn" width="100" height="40"/> </a>
+
 
 <!--office-->
 
