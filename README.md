@@ -1,30 +1,30 @@
 ```Terminal
-[naveen@kuharnaveen ~]$ Hi there 👋
-[naveen@kuharnaveen ~]$ I am Naveen
-[naveen@kuharnaveen ~]$ I am a student and a developer 👨‍💻
-[naveen@kuharnaveen ~]$ I am based in  🇨🇦
-[naveen@kuharnaveen ~]$ I love to code and eat 🥣
-[naveen@kuharnaveen ~]$ I am currently learning Machine Learning 🤖
-[naveen@kuharnaveen ~]$ I am currently studying at Sault College 🏫
-[naveen@kuharnaveen ~]$ I am available at mr.naveenkuhar@proton.me 📧
+[naveen@mr-naveenkuhar ~]$ Hi there 👋
+[naveen@mr-naveenkuhar ~]$ I am Naveen 👩‍💻
+[naveen@mr-naveenkuhar ~]$ I am a student and a developer 👨‍💻
+[naveen@mr-naveenkuhar ~]$ I am based in  🇨🇦 🍁
+[naveen@mr-naveenkuhar ~]$ I love to code and eat 🥣
+[naveen@mr-naveenkuhar ~]$ I am currently learning Machine Learning 🤖
+[naveen@mr-naveenkuhar ~]$ I am currently studying at Sault College 🏫
+[naveen@mr-naveenkuhar ~]$ I am available at mr_kuhar@pm.me 📧
 ```
 
-> `[naveen@kuharnaveen ~]$ Connect with me`
+> `[naveen@mr-naveenkuhar ~]$ Connect with me`
 
 <p align="left">
 <!-- Connect with me on social media -->
 <!-- protonmail: -->
-<a href="mailto:mr.naveenkuhar@proton.me " target="blank"><img align="center" src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-mail-icon-alone_qcw8wz.svg" alt="mr.naveenkuhar@proton" height="30" width="40" /></a>
+<a href="mailto:mr_kuhar@pm.me " target="blank"><img align="center" src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-mail-icon-alone_qcw8wz.svg" alt="mr.naveenkuhar@proton" height="30" width="40" /></a>
 <!-- Gravtar -->
-<a href="https://en.gravatar.com/kuharnaveen" target="blank"><img align="center" src="https://brandeps.com/logo-download/G/Gravatar-logo-vector-01.svg" alt="kuharnaveen" height="30" width="40" /></a>
+<a href="https://gravatar.com/mrnaveenkuhar" target="blank"><img align="center" src="https://brandeps.com/logo-download/G/Gravatar-logo-vector-01.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- codepen -->
-<a href="https://codepen.io/kuharnaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kuharnaveen" height="30" width="40" /></a>
+<a href="https://codepen.io/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- dev.to -->
-<a href="https://dev.to/kuharnaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kuharnaveen" height="30" width="40" /></a>
+<a href="https://dev.to/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- linedin -->
-<a href="https://linkedin.com/in/kuharnaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuharnaveen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- stackoverflow -->
-<a href="https://stackoverflow.com/users/kuharnaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kuharnaveen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mr-naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mr-naveenkuhar" height="30" width="40" /></a>
 <!-- Medium -->
 <a href="https://medium.com/@mr.naveenkuhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mr.naveenkuhar" height="30" width="40" /></a>
 <!-- youtube -->
@@ -33,7 +33,7 @@
 
 <!-- languages and tools section -->
 
-> `[naveen@kuharnaveen ~]$ Languages`
+> `[naveen@mr-naveenkuhar ~]$ Languages`
 
 <p align="left">
 <!-- python -->
@@ -73,7 +73,7 @@ alt="bash" width="40" height="40"/></a>
 
 <!-- other tools  -->
 
-> `[naveen@kuharnaveen ~]$ code editors`
+> `[naveen@mr-naveenkuhar ~]$ code editors`
 
 <p align="left">
 <!-- vscode -->
@@ -98,7 +98,7 @@ alt="android studio" width="40" height="40"/> </a>
 
 <!--office-->
 
-> `[naveen@kuharnaveen ~]$ Office `
+> `[naveen@mr-naveenkuhar ~]$ Office `
 
 <!--exel-->
 <p <a href="https://www.microsoft.com/en-ca/microsoft-365/excel" target="_blank"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_AreaHeading_64x64_B_Desktop-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=58&hei=58&qlt=100&fit=constrain" 
@@ -122,7 +122,7 @@ alt="sql server" width="40" height="40"/> </a>
 
 <!-- video editing -->
 
-> `[naveen@kuharnaveen ~]$ Creativity`
+> `[naveen@mr-naveenkuhar ~]$ Creativity`
 
 <!-- davichi resolve -->
 <p <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"> <img src="https://duckduckgo.com/i/300d79aa.png"
@@ -147,7 +147,7 @@ alt="audition" width="40" height="40"/> </a>
 
 <!-- architectural design -->
 
-> `[naveen@kuharnaveen ~]$ Architectural Design`
+> `[naveen@mr-naveenkuhar ~]$ Architectural Design`
 
 <!-- Unreal Engine -->
 <p <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
@@ -162,7 +162,7 @@ alt="3ds max" width="40" height="40"/> </a>
 
 <!-- others -->
 
-> `[naveen@kuharnaveen ~]$ Others`
+> `[naveen@mr-naveenkuhar ~]$ Others`
 
 <!-- virtual box -->
 
@@ -171,16 +171,16 @@ alt="virtualbox" width="40" height="40"/> </a>
 
 <!-- Stats -->
 
-> `[naveen@kuharnaveen ~]$ Stats`
+> `[naveen@mr-naveenkuhar ~]$ Stats`
 
-<p><img aling="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuharnaveen&show_icons=true&locale=en&layout=compact" alt="kuharnaveen" /></p>
-<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kuharnaveen&show_icons=true&locale=en" alt="kuharnaveen" /></p>
+<p><img aling="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-naveenkuhar&show_icons=true&locale=en&layout=compact" alt="mr-naveenkuhar" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mr-naveenkuhar&show_icons=true&locale=en" alt="mr-naveenkuhar" /></p>
 
-> `[naveen@kuharnaveen ~]$ Streak `
+> `[naveen@mr-naveenkuhar ~]$ Streak `
 
-<p><img align="center" width="400" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=kuharnaveen&" alt="kuharnaveen" /></p>
+<p><img align="center" width="400" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-naveenkuhar&" alt="mr-naveenkuhar" /></p>
 
-<!-- >`[naveen@kuharnaveen ~]$ My Resume ?` -->
+<!-- >`[naveen@mr-naveenkuhar ~]$ My Resume ?` -->
 
-<!-- ` [naveen@kuharnaveen ~]$ I will upload it soon` -->
+<!-- ` [naveen@mr-naveenkuhar ~]$ I will upload it soon` -->
 <!-- Updated on 1/26/24 -->
